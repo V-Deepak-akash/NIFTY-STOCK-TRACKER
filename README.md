@@ -1,8 +1,5 @@
 # 📈✨ **Nifty Stock Tracker**  
-Your ultimate **real-time stock analytics hub** powered by cutting-edge technologies.  
-
-![Banner](https://via.placeholder.com/1000x300?text=Welcome+to+Nifty+Stock+Tracker)
-
+Your ultimate **real-time stock analytics hub** powered by cutting-edge technologies.
 ---
 
 ## 🚀 **About the Project**
