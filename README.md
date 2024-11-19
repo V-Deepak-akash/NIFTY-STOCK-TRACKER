@@ -24,7 +24,11 @@ The **Nifty Stock Tracker** is a next-generation, **data-driven web application*
 
 ## 🖥️ **Demo Screenshot**
 
-![App Screenshot](https://via.placeholder.com/800x450?text=App+Screenshot+Goes+Here)
+<p align="center">
+  <img src="images/dashboard.png" width="45%" />
+  <img src="images/1dchart.png" width="45%" />
+</p>
+
 
 ---
 
@@ -63,7 +67,7 @@ Replace NEWS_API_KEY in app.py with your API key:
     ```
 
 ## 📁 Project Structure
-    ```bash
+
     nifty-stock-tracker/
     │
     ├── app.py                 # Main Streamlit app
@@ -71,7 +75,6 @@ Replace NEWS_API_KEY in app.py with your API key:
     ├── requirements.txt       # Dependencies list
     ├── README.md              # Documentation
     └── .gitignore             # Ignored files
-    ```
 
 ## 🎨 Core Features in Detail
 
