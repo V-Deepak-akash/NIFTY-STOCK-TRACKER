@@ -1,0 +1,15 @@
+# Python-related
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Environment files
+.env
+*.env
+
+# Streamlit cache
+.cache/
+streamlit/
+
+# JSON Data
+portfolio_data.json
