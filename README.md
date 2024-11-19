@@ -48,11 +48,10 @@ Ensure you have **Python 3.9+** installed.
     pip install -r requirements.txt
     ```
 
-3. Add your News API Key:
-   Get you'r API KEY from here :
-   [newsapi](https://newsapi.org)
-Replace NEWS_API_KEY in app.py with your API key:
-
+3. **Add Your News API Key**:
+   - Get your API key from [News API](https://newsapi.org).
+   - Replace the placeholder `NEWS_API_KEY` in `app.py` with your actual API key.
+   
     ```bash
     NEWS_API_KEY = 'your_news_api_key'
     ```
