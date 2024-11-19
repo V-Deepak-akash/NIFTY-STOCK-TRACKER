@@ -27,6 +27,7 @@ The **Nifty Stock Tracker** is a next-generation, **data-driven web application*
 <p align="center">
   <img src="images/dashboard.png" width="45%" />
   <img src="images/1dchart.png" width="45%" />
+  <img src="images/volume.png" width="45%" />
 </p>
 
 
