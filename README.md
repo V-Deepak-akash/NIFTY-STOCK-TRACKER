@@ -155,6 +155,7 @@ Want to make it even better? Here's how:
 5. Open a pull request
 
 ## 🧑‍💻 Author
-Developed with ❤️ by Your Name
-📧 Email: v.deepakakash@gmail.com
-🌐 Portfolio: coming soon
+
+Developed with ❤️ by **V-Deepak-akash**  
+📧 **Email**: [v.deepakakash@gmail.com](mailto:v.deepakakash@gmail.com)  
+🌐 **Portfolio**: Coming soon
