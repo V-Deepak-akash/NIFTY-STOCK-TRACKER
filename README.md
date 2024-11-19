@@ -49,17 +49,20 @@ Ensure you have **Python 3.9+** installed.
     ```
 
 3. Add your News API Key:
+   Get you'r API KEY from here :
+   [newsapi](https://newsapi.org)
 Replace NEWS_API_KEY in app.py with your API key:
+
     ```bash
     NEWS_API_KEY = 'your_news_api_key'
     ```
 
-4. Run the app:
+5. Run the app:
     ```bash
     streamlit run app.py
     ```
 
-5. Open the app in your browser:
+6. Open the app in your browser:
     ```bash
     http://localhost:8501
     ```
