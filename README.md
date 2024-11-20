@@ -118,10 +118,9 @@ Ensure you have **Python 3.9+** installed.
 
 ## 📦 Dependencies
 Install required packages with:
-
-    ```
-    pip install -r requirements.txt
-    ```
+  ```
+  pip install -r requirements.txt
+  ```
 
 ## Included:
 - streamlit: Frontend framework for web apps.
