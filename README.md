@@ -154,7 +154,10 @@ Want to make it even better? Here's how:
     git push origin feature-name
     ```
 5. Open a pull request
+
 ## 🧑‍💻 Author
 Developed with ❤️ by Your Name
+
 📧 Email: v.deepakakash@gmail.com
+
 🌐 Portfolio: coming soon
