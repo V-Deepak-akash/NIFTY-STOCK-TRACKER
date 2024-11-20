@@ -38,13 +38,13 @@ Ensure you have **Python 3.9+** installed.
 ### 2️⃣ Installation  
 
 1. Clone the repository:  
-   ```bash
+   ```
    git clone https://github.com/<your-username>/nifty-stock-tracker.git
    cd nifty-stock-tracker
    ```
 
 2. Install dependencies:
-    ```bash
+    ```
     pip install -r requirements.txt
     ```
 
@@ -53,17 +53,17 @@ Ensure you have **Python 3.9+** installed.
    - Replace the placeholder `NEWS_API_KEY` in `app.py` with your actual API key.
 
    
-    ```bash
+    ```
     NEWS_API_KEY = 'your_news_api_key'
     ```
 
 5. Run the app:
-    ```bash
+    ```
     streamlit run app.py
     ```
 
 6. Open the app in your browser:
-    ```bash
+    ```
     http://localhost:8501
     ```
 
@@ -118,7 +118,7 @@ Ensure you have **Python 3.9+** installed.
 
 ## 📦 Dependencies
 Install required packages with:
-    ```bash
+    ```
     pip install -r requirements.txt
     ```
 
@@ -142,15 +142,15 @@ Want to make it even better? Here's how:
 
 1. Fork the repository
 2. Create a feature branch:
-    ```bash
+    ```
     git checkout -b feature-name
     ```
 3. Commit your changes:
-    ```bash
+    ```
     git commit -m "Added new feature"
     ```
 4. Push to your fork:
-    ```bash
+    ```
     git push origin feature-name
     ```
 5. Open a pull request
