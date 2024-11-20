@@ -1,8 +1,5 @@
 # 📈✨ **Nifty Stock Tracker**  
-Your ultimate **real-time stock analytics hub** powered by cutting-edge technologies.  
-
-![Banner](https://via.placeholder.com/1000x300?text=Welcome+to+Nifty+Stock+Tracker)
-
+Your ultimate **real-time stock analytics hub** powered by cutting-edge technologies.
 ---
 
 ## 🚀 **About the Project**
@@ -27,6 +24,7 @@ The **Nifty Stock Tracker** is a next-generation, **data-driven web application*
 <p align="center">
   <img src="images/dashboard.png" width="45%" />
   <img src="images/1dchart.png" width="45%" />
+  <img src="images/volume.png" width="45%" />
 </p>
 
 
@@ -50,18 +48,21 @@ Ensure you have **Python 3.9+** installed.
     pip install -r requirements.txt
     ```
 
-3. Add your News API Key:
-Replace NEWS_API_KEY in app.py with your API key:
+3. **Add Your News API Key**:
+   - Get your API key from [News API](https://newsapi.org).
+   - Replace the placeholder `NEWS_API_KEY` in `app.py` with your actual API key.
+
+   
     ```bash
     NEWS_API_KEY = 'your_news_api_key'
     ```
 
-4. Run the app:
+5. Run the app:
     ```bash
     streamlit run app.py
     ```
 
-5. Open the app in your browser:
+6. Open the app in your browser:
     ```bash
     http://localhost:8501
     ```
@@ -103,6 +104,7 @@ Replace NEWS_API_KEY in app.py with your API key:
 
 **Tip**
 - If the application keeps refreshing, simply disable the auto-refresh feature in the sidebar or increase the refresh interval. 
+- AND the 1D chart won't be visible if the market is **CLOSED** on that particular day
 
 ## 📊 Technical Stack
 
@@ -154,6 +156,7 @@ Want to make it even better? Here's how:
 5. Open a pull request
 
 ## 🧑‍💻 Author
-Developed with ❤️ by Your Name
-📧 Email: v.deepakakash@gmail.com
-🌐 Portfolio: coming soon
+
+Developed with ❤️ by **V-Deepak-akash**  
+📧 **Email**: [v.deepakakash@gmail.com](mailto:v.deepakakash@gmail.com)  
+🌐 **Portfolio**: Coming soon

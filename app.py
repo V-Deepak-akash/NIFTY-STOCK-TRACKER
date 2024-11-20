@@ -184,7 +184,7 @@ refresh_interval = st.sidebar.slider("Refresh Interval (seconds):", min_value=5,
 # Tab 1: Stock Tracker
 with tab1:
     # Streamlit UI
-    st.title("📈 Nifty 50 Stock Tracker")
+    st.title("📈 Nifty Stock Tracker")
 
     st.subheader("Filters")
     index_filter = st.selectbox(
@@ -437,7 +437,7 @@ with tab3:
     # News Section
     st.subheader("Stock News")
 
-    news_stock_symbol = st.selectbox("Choose a stock symbol to view latest news:", options=nifty_50_stocks)
+    news_stock_symbol = st.selectbox("Choose a stock symbol to view latest news:", options=nifty_50_stocks + bank_nifty_stocks + fin_nifty_stocks + midcap_nifty_stocks + sensex_stocks)
 
     if st.button("Fetch News"):
         news_articles = fetch_news(news_stock_symbol)
