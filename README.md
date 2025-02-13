@@ -156,8 +156,8 @@ Want to make it even better? Here's how:
 5. Open a pull request
 
 ## 🧑‍💻 Author
-Developed with ❤️ by Your Name
+Developed with ❤️ by Your DPK
 
 📧 Email: v.deepakakash@gmail.com
 
-🌐 Portfolio: coming soon
+🌐 Portfolio: https://v-deepak.com
